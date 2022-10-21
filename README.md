@@ -9,3 +9,4 @@ The Computer History Museum Historical Source Code Series
 * [Microsoft MS-DOS Early Source Code, March 25, 2014](https://computerhistory.org/blog/microsoft-ms-dos-early-source-code/)
 * [Microsoft Word for Windows Version 1.1a Source Code, March 25, 2014](https://computerhistory.org/blog/microsoft-word-for-windows-1-1a-source-code/)
 * [Early Digital Research CP/M Source Code, October 1, 2014](https://computerhistory.org/blog/early-digital-research-cpm-source-code/)
+* [Xerox Alto Source Code, October 21, 2014](https://computerhistory.org/blog/xerox-alto-source-code/)
